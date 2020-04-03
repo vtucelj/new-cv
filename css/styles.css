@@ -1,0 +1,152 @@
+body {
+  background-color: #f9f7f7;
+  color: #333333;
+  font-family: 'Libre Franklin', sans-serif;
+  margin: 10px 0 0 0;
+  text-align: center;
+}
+
+h1 {
+  color: #112d4e;
+  font-family: 'Parisienne', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #112d4e;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  padding: 10px;
+}
+
+h3 {
+  color: #3f72af;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #3f72af;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  margin: 10px 15px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+hr {
+  background-color: transparent;
+  border-style: dotted none none;
+  width: 5%;
+  border-color: #dee3e2;
+  border-width: 5px;
+}
+
+p {
+  line-height: 2;
+}
+
+.top_container {
+  background-color: #edf7fa;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 50px auto;
+}
+
+.bottom-container {
+  background-color: #76dbd1;
+  padding: 35px 0 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  bottom: 300px;
+  left: 300px;
+  position: absolute;
+}
+
+
+.profile-image {
+  width: 40%;
+}
+
+.skill-development-icon {
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  width: 25%;
+}
+
+.skill-baking-icon {
+  float: right;
+  margin-left:30px;
+  position: relative;
+  width: 25%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 70px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.references {
+  color: #4d4646;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.profile {
+  margin: 30px auto;
+  width: 40%;
+}
+
+.contact-me {
+  margin: 50px auto;
+}
+
+.contact-me-button {
+	box-shadow: 2px 1px 4px 0 #1c798a;
+	background:linear-gradient(to bottom, #5c8d89 5%, #57a99a 100%);
+	background-color:#5c8d89;
+	border-radius:18px;
+	border:1px solid #57a99a;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:10px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #215b70;
+}
+.contact-me-button:hover {
+	background:linear-gradient(to bottom, #57a99a 5%, #5c8d89 100%);
+	background-color:#2aa0bd;
+}
+
+#first {
+  color: #3f72af;
+  font-size: 1.25rem;
+  font-weight: normal;
+  margin: 0 auto;
+}
